@@ -1,5 +1,5 @@
-<img src="https://github.com/contiki-ng/contiki-ng.github.io/blob/master/images/logo/Contiki_logo_2RGB.png" alt="Logo" width="256">
 
+This is my version of contiki-ng for MultiPath RPL
 # Contiki-NG: The OS for Next Generation IoT Devices
 
 [![Github Actions](https://github.com/contiki-ng/contiki-ng/workflows/CI/badge.svg?branch=develop)](https://github.com/contiki-ng/contiki-ng/actions)
